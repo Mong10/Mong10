@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm AH Mong Marma</h1>
-<h3 align="center">A passionate problem solving from Bangladesh</h3>
+<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
+<h3 align="center">Hi there! 👋 I’m Mong, a Computer Science and Engineering graduate passionate about web development, machine learning, and competitive programming.</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mong10&label=Profile%20views&color=0e75b6&style=flat" alt="mong10" /> </p>
 
-- 🌱 I’m currently seeking for the job
-
+- 💻 I’ve worked on exciting projects like:
+  Skin Disease Detection Using CNN 🩺
+  Potato Prediction System with Linear Regression 🥔
+  Task Management System using HTML, CSS, JavaScript, PHP, and SQL 📊
+  
+- 🌟 I’m skilled in:
+   Languages: C, C++, Python, Java
+   Web Development: HTML, CSS, JavaScript, PHP
+   Databases: MySQL
+  
+- 📚 I’m always open to learning new technologies and collaborating on innovative projects.
+      Let’s connect and build something amazing together! 🌐✨
+  
 - 📫 How to reach me **changinmong10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
