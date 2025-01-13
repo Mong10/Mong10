@@ -68,15 +68,15 @@ Let's **connect** and build something amazing together! 🌐✨
 ### 📊 **GitHub Stats:**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mong10&show_icons=true&locale=en&layout=compact" alt="mong10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mong10&show_icons=true&locale=en&layout=compact&theme=radical" alt="mong10" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mong10&show_icons=true&locale=en" alt="mong10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mong10&show_icons=true&locale=en&theme=radical" alt="mong10" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mong10&" alt="mong10" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mong10&theme=radical" alt="mong10" />
 </p>
 
 ---
 
-✨ **Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.** 🚀👨‍💻  
+✨ **Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.** 🚀👨‍💻
