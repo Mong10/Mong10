@@ -76,10 +76,9 @@ Let's **connect** and build something amazing together! 🌐✨
 ---
 
 ### 🌍 **Languages:**
-- 🇧🇩 Marma: Native
-- 🏴 Bangla & English : Advanced
-- 🇮🇳 Chakma: Intermediate
-- 🇧🇷 Hindi: Basic
+- 💙 Marma: Native
+- 💙 Bangla : Second Language
+- 💙 English: Third Language 
 
 ---
 
