@@ -15,7 +15,7 @@
 ---
 
 ### 🌟 **Skills & Technologies:**
-- **Languages:** C, C++, Python, Java  
+- **Languages:** C, C++, Python  
 - **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Databases:** MySQL  
 
@@ -62,6 +62,31 @@ Let's **connect** and build something amazing together! 🌐✨
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
+
+---
+
+### 🎓 **Education:**
+- **B.sc(Engineering)in Computer Science & Engineering**  
+  Hajee Mohammad Danesh Science & Technology, Dinajpur
+- **Higher Secondary School (HSC)**  
+  Rangamati Govt. College
+- **Secondary School Certificate**  
+  Mahalchhari Model Pilot High School
+
+---
+
+### 🌍 **Languages:**
+- 🇧🇩 Marma: Native
+- 🏴 Bangla & English : Advanced
+- 🇮🇳 Chakma: Intermediate
+- 🇧🇷 Hindi: Basic
+
+---
+
+### 🏆 **Sports / Games / Activities / Hobbies:**
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton,
+- 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
 
 ---
 
